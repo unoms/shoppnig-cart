@@ -1,6 +1,11 @@
-This is only front-end application which represents functionality for a shopping cart.
+#A shopping cart JS front-end application
 
-The application is based on a MVC pattern. The Order.js is a model and there are some tests
-for it written on jest. 
+This is a front-end application which represents functionality for a shopping cart.
 
-UImain.js and 
+##Features
+
+*The application is based on pure JS and a MVC pattern. 
+
+*The Order.js is a model and there are some tests for it written on jest. 
+
+*UImain.js and 
