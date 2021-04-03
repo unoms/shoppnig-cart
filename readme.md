@@ -1,6 +1,6 @@
 # A shopping cart JS front-end application
 
-This is a front-end application which represents functionality for a shopping cart.
+This is a front-end application that represents functionality for a shopping cart.
 
 ## Features
 
@@ -10,4 +10,4 @@ This is a front-end application which represents functionality for a shopping ca
 
 * UImain.js and UImain.js - represent a view part in MVC
 
-* class Adapter follows an adapter pattern to hepl to update the views after the model is changed
+* class Adapter follows an adapter pattern to help to update the views after the model is changed
