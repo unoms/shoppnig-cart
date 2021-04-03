@@ -1,0 +1,28 @@
+{
+  "name": "shoppingcart",
+  "version": "1.0.0",
+  "type": "module",
+  "jest": {
+    "transform": {},
+    "testEnvironment": "jest-environment-node"
+  },
+  "description": "shopping cart front-end app based on MVC pattern",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [
+    "MVC",
+    "Observer",
+    "Facade",
+    "Adapter"
+  ],
+  "author": "Sergey Balakin <balakin@unom.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

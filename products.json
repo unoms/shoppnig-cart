@@ -1,0 +1,29 @@
+{
+    "products": [
+
+        {
+            "id": 68506, 
+            "description": "ARDINA SAE 5W30 XT Longlife",
+            "price": 12,
+            "img": "68506-5W30-XT.jpg"
+        },
+        {
+            "id": 68509,
+            "description": "ARDINA SAE 5W40 ST Fully Synthetic",
+            "price": 11,
+            "img": "68509-5W40-ST.jpg"
+        },
+        {
+            "id": 68515,
+            "description": "ARDINA SAE 10W40 ECO Semi Synthetic", 
+            "price": 5, 
+            "img": "68515-10W40.jpg"
+        },
+        {
+            "id": 68518, 
+            "description": "ARDINA SAE 15W40 ECO Multigrade",
+            "price": 7, 
+            "img": "68518-15W40.jpg"
+        }
+    ]
+}
